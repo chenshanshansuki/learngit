@@ -1,0 +1,2 @@
+  learngit init
+  i don,t know 
